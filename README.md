@@ -1,2 +1,8 @@
 # testrepo
-justa demo repo for class
+just a demo repo for class
+
+adding more to this later
+
+## Author
+Morgan
+
